@@ -1,14 +1,14 @@
 {
-  "name": "jquery-file-upload-middleware",
+  "name": "jquery-file-upload-middleware-sarme",
   "author": "Aleksandr Guidrevitch <aguidrevitch@gmail.com>",
-  "description": "jQuery-File-Upload Express.js Middleware",
+  "description": "jQuery-File-Upload Express.js Middleware - sarme fork",
   "keywords": [
     "jquery",
     "upload",
     "express",
     "middleware"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1,
   "dependencies": {
     "formidable": ">=1.0.11",
     "imagemagick": ">=0.1.2",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aguidrevitch/jquery-file-upload-middleware.git"
+    "url": "https://github.com/sarme/jquery-file-upload-middleware.git"
   },
   "main": "./index.js",
   "readmeFilename": "README.md",
@@ -28,6 +28,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "_id": "jquery-file-upload-middleware@0.1.0",
+  "_id": "jquery-file-upload-middleware-sarme@0.1.1",
   "license": "MIT"
 }
